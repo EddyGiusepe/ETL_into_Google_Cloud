@@ -9,11 +9,11 @@ Aqui exploramos as ferramentas da `Google Cloud` para o processo de `ETL`. Usare
 
 Os passos a seguir são:
 
-* Crie um projeto na `Google Cloud`. Eu crie com o nome que você desejar, eu crie com nome: `projeto-ETL-eddy-1`
+* Crie um projeto na `Google Cloud`. Crie com o nome que você desejar, eu criei com nome: `projeto-ETL-eddy-1`
 
-* Logo vai até o `Cloud Storage` e cria um `BUCKET`. Eu crie com o nome `bucket-eddy-1`.
+* Logo, vai até o `Cloud Storage` e crie um `BUCKET`. Eu crie com o nome `bucket-eddy-1`.
 
-* Nessa mesma página faça o Upload de seus dados, assim:
+* Nessa mesma página faça o `Upload` de seus dados, assim:
 
 ![alt text](image.png)
 
@@ -25,9 +25,11 @@ Os passos a seguir são:
 ![alt text](image-1.png)
 
 
-* A seguir você pode realizar CONSULTAS com SQL, assim:
+* A seguir, também, você pode realizar CONSULTAS em `SQL`, assim:
 
 ![alt text](image-2.png)
+
+
 
 
 
